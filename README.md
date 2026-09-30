@@ -16,14 +16,6 @@ Uses local Hugging Face RoBERTa models (provided in `./models/`) and stores logs
 V
 ---
 
-## Discord Bot Link Invitation
-
-```
-https://discord.com/oauth2/authorize?client_id=1495106854886441030&permissions=8&integration_type=0&scope=bot
-```
-
----
-
 ## 🔧 Requirements
 
 * Python 3.9+
